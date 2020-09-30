@@ -1,18 +1,9 @@
 ---
-# An instance of the Featured widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: featured
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+active: false
 headless: true
-
-# Order that this section appears on the page.
 weight: 80
-
-title: Featured Publications
+title: 精选刊物
 subtitle: ""
 
 content:

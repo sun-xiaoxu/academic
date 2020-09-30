@@ -1,11 +1,11 @@
 +++
-# Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+# 轮播图下面的东西
+widget = "hero" 
+headless = true
+active = false  
+weight = 10
 
-title = "Academic"
+title = "啥"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "hero-academic.png"

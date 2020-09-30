@@ -1,22 +1,12 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: experience
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+active: false
 headless: true
-
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: 经历
 subtitle:
-
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format: Jan 2006
 
 # Experiences.

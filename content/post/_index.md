@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: 所有博客
 
 # View.
 #   1 = List

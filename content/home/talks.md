@@ -4,7 +4,7 @@
 widget: pages
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: Recent & Upcoming Talks
+title: 最近的讲座
 subtitle:
 
 content:
