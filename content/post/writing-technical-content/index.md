@@ -1,5 +1,5 @@
 ---
-title: Writing technical content in Academic
+title: 博客
 date: 2019-07-12
 math: true
 diagram: true
