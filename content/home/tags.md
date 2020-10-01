@@ -1,6 +1,6 @@
 ---
 widget: tag_cloud
-active: true
+active: false
 headless: true
 weight: 120
 

@@ -6,15 +6,15 @@
 
 [[main]]
   name = "博客"
-  url = "#posts"
+  url = "post/"
   weight = 20
 
 
 
-[[main]]
-  name = "学习笔记"
-  url = "courses/"
-  weight = 50
+#[[main]]
+ # name = "学习笔记"
+  #url = "courses/"
+  #weight = 50
 
 
 [[main]]
