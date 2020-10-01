@@ -1,29 +1,19 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
-summary: ""
-authors: []
-tags: []
-categories: []
+summary: ""  #所有博客页面中,文章的简述
+authors: [admin]	# 作者不用改
+tags: [标签]
+categories: [分类]
 date: {{ .Date }}
 lastmod: {{ .Date }}
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+type:	book  # 只有book带目录
+toc:	true # 是否带目录
+diagram: true #是否支持图表
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---

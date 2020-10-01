@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "测试"
+title: "Git手册"
 subtitle: ""
-summary: ""
+summary: "人呢"
 authors: []
 tags: []
 categories: []
-date: 2020-10-01T10:59:58+08:00
-lastmod: 2020-10-01T10:59:58+08:00
+date: 2020-10-01T22:16:21+08:00
+lastmod: 2020-10-01T22:16:21+08:00
 featured: false
 draft: false
-toc:	true
 type:	book
+toc:	true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -28,11 +28,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-## 二级标题
-
-### 三级标题
-
-## 二级标题
-
-### 三级标题
